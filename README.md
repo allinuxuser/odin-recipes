@@ -9,5 +9,5 @@ Eggs Rice And Soy Sauce Recipe:
 W.I.P
 
 Half-Boiled Egg Recipe:
-W.I.P
+Completed
 
