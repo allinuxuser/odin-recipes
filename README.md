@@ -1,10 +1,13 @@
 # odin-recipes
 
-This is just a Adam Regusea recipe website, everything here is Adam's recipe (Adam please dont sue me) (I just took the instructions adam made from the video's description)
+Brand new recipes, no more stealin recipes, recipes for people who can't cook.
 
-Pizza Recipe:
+Maggi Curry Recipe:
 Completed
 
-Sloppy Gyros Recipe: 
+Eggs Rice And Soy Sauce Recipe: 
+W.I.P
+
+Half-Boiled Egg Recipe:
 W.I.P
 
