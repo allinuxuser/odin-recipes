@@ -5,7 +5,7 @@ Brand new recipes, no more stealin recipes, recipes for people who can't cook.
 Maggi Curry Recipe:
 Completed
 
-Eggs Rice And Soy Sauce Recipe: 
+Kaya Toast Recipe: 
 W.I.P
 
 Half-Boiled Egg Recipe:
