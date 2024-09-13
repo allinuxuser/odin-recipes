@@ -6,7 +6,7 @@ Maggi Curry Recipe:
 Completed
 
 Kaya Toast Recipe: 
-W.I.P
+Completed
 
 Half-Boiled Egg Recipe:
 Completed
