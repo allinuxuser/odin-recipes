@@ -1,18 +1,35 @@
+body {
+  background-color: #282828;
+}
+
+.recipe,
+.h1,
+.aligned-text {
+  text-align: center;
+}
+
 .recipe {
   font-family: "Times New Roman", sans-serif;
   font-size: 20px;
   color: #781BE4;
-  text-align: center;
 }
 
 h1 {
   color: white;
   background-color:#69629D;
-  text-align: center;
 }
 
 p {
   font-family: "Times New Roman", sans-serif;
   font-size: 20px;
   color: #817E81;
+}
+
+.recipeimage {
+  display: block;
+  margin: 0px auto;
+}
+
+ul {
+  color: #4c53c2;
 }
